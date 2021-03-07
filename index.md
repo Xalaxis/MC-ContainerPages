@@ -14,10 +14,10 @@ It is a long term goal that :version tags will be made that track only specific 
 
 ## Full Pack listing
 
-| ModPack  | DockerHub Container |
-|----------|:-------------------:|
-| FTB Revelation | wolfrazu/ftb-revelation
-| FTB Presents Direwolf 20 1.16 | wolfrazu/ftb-presents-direwolf20-116
+| ModPack  | DockerHub Container | Status |
+|----------|:-------------------:| ------- |
+| FTB Revelation | wolfrazu/ftb-revelation | [![Build and Push Latest Versions](https://github.com/Xalaxis/FTB-Revelation/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/Xalaxis/FTB-Revelation/actions/workflows/build.yml)
+| FTB Presents Direwolf 20 1.16 | wolfrazu/ftb-presents-direwolf20-116 | [![Build and Push Latest Versions](https://github.com/Xalaxis/FTB-Presents-Direwolf-20-1.16/actions/workflows/build.yml/badge.svg)](https://github.com/Xalaxis/FTB-Presents-Direwolf-20-1.16/actions/workflows/build.yml)
 
 # Configuration
 
