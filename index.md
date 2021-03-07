@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Docker containers for Feed The Beast (FTB) ModPacks
 
-You can use the [editor on GitHub](https://github.com/Xalaxis/MC-ContainerPages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+These containers are all created based on my https://github.com/Xalaxis/CreeperHostPackInstaller image.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The :latest tag automatically updates to the latest version available of each Modpack once daily. Even if no new version is available, the image is rebuilt to ensure underlying container updates are propagated.
 
-### Markdown
+It is a long term goal that :version tags will be made that track only specific versions of the packs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xalaxis/MC-ContainerPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| ModPack  | DockerHub Container | GitHub |
+|----------|:-------------------:|-------:|
+| FTB Revelation | wolfrazu/ftb-revelation | https://github.com/Xalaxis/FTB-Revelation |
+| FTB Presents Direwolf 20 1.16 | wolfrazu/ftb-presents-direwolf20-116 | https://github.com/Xalaxis/FTB-Presents-Direwolf-20-1.16
