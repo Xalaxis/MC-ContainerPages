@@ -4,6 +4,8 @@ These containers are all created based on my https://github.com/Xalaxis/CreeperH
 
 This page, and all the containers are work-in-progress and subject to change, but they're stable enough for public use and they're what I use myself personally. I'm happy to add new containers and options if anyone wants.
 
+Any issues can be reported via adding an issue at https://github.com/Xalaxis/Xalaxis-FTB-Containers/issues
+
 ## Tags
 
 The :latest tag automatically updates to the latest version available of each Modpack once daily. Even if no new version is available, the image is rebuilt to ensure underlying container updates are propagated.
