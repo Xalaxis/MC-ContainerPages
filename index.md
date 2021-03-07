@@ -10,7 +10,7 @@ Any issues can be reported via adding an issue at https://github.com/Xalaxis/Xal
 
 The :latest tag automatically updates to the latest version available of each Modpack once daily. Even if no new version is available, the image is rebuilt to ensure underlying container updates are propagated.
 
-It is a long term goal that :version tags will be made that track only specific versions of the packs.
+It is a long term goal that :version tags will be made that track only specific versions of the packs, and that I'll automate this somehow using GitHub Actions.
 
 ## Full Pack listing
 
